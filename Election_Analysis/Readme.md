@@ -8,9 +8,12 @@ Per the request of a Colorado Board of Elections employee, the purpose of this e
 
 The result of the election is as follows. 
 . There is a total of 369,711 votes cast in this election.
+![alt text](https://github.com/harryhua2021/Assignments/blob/ade80aa7738d04c1613372cd0e62d6920d559e34/Election_Analysis/Total_Votes.png)
 . Among the 3 counties that participated in the election, Denver county has the largest share of votes at 82.8% and 306,055 votes. It is followed by Jefferson county at 10.5% with 38,855 and Arapahoe county at 6.7% with 24,801 votes. 
+![alt text](https://github.com/harryhua2021/Assignments/blob/ade80aa7738d04c1613372cd0e62d6920d559e34/Election_Analysis/County_Votes.png)
 . Therefore, Denver county has the largest share of votes.
 . Among the 3 candidates who participated in the election, Diana DeGette finished the pole at 73.8% by receiving 272,892 votes in total. Charles Casper Stockham received 23.0% of all votes with 85,213 votes, and Raymon Anthony Doane finished last at 3.1% with 11,606 votes.
+![alt text](https://github.com/harryhua2021/Assignments/blob/ade80aa7738d04c1613372cd0e62d6920d559e34/Election_Analysis/Candidate_Votes.png)
 . As the result of this election analysis, we conclude that Diana DeGette has won the election by receiving a total of 272,892 votes, scoring an impressive 73.8% of all votes cast.
 
 ## Election Audit Summary
